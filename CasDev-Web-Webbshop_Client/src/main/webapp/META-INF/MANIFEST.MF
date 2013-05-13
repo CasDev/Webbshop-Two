@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: CasDev-webbshop_model-1.0-SNAPSHOT.jar CasDev-webbshop-dat
+ abase-1.0-SNAPSHOT.jar mysql-connector-java-5.1.19.jar jstl-1.2.jar s
+ pring-webmvc-3.1.1.RELEASE.jar spring-asm-3.1.1.RELEASE.jar spring-be
+ ans-3.1.1.RELEASE.jar spring-core-3.1.1.RELEASE.jar spring-context-3.
+ 1.1.RELEASE.jar spring-aop-3.1.1.RELEASE.jar aopalliance-1.0.jar spri
+ ng-expression-3.1.1.RELEASE.jar spring-context-support-3.1.1.RELEASE.
+ jar spring-web-3.1.1.RELEASE.jar hibernate-validator-4.2.0.Final.jar 
+ validation-api-1.0.0.GA.jar slf4j-api-1.6.1.jar jcl-over-slf4j-1.6.4.
+ jar logback-classic-1.0.2.jar logback-core-1.0.2.jar
+
